@@ -1,0 +1,12 @@
+.amount{
+    display: flex;
+    justify-content: space-between;
+}
+#total, #change-total ,#mail{
+    display: none;
+}
+#promo{
+    
+    display: none;
+}
+
